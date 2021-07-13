@@ -29,7 +29,7 @@
     "eslint-plugin-react": "^6.10.3",
     "eslint-plugin-react-native": "^2.3.2",
     "jest": "18.1.0",
-    "lint-staged": "^3.4.0",
+    "lint-staged": "^11.0.1",
     "pre-commit": "^1.2.2",
     "prettier": "^1.2.2",
     "react-devtools": "^2.1.0",
